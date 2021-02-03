@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/extinct-io/static/css/main.54e13ee9.chunk.css",
+    "main.js": "/extinct-io/static/js/main.09f30334.chunk.js",
+    "main.js.map": "/extinct-io/static/js/main.09f30334.chunk.js.map",
+    "runtime-main.js": "/extinct-io/static/js/runtime-main.600cf281.js",
+    "runtime-main.js.map": "/extinct-io/static/js/runtime-main.600cf281.js.map",
+    "static/js/2.f75fcc70.chunk.js": "/extinct-io/static/js/2.f75fcc70.chunk.js",
+    "static/js/2.f75fcc70.chunk.js.map": "/extinct-io/static/js/2.f75fcc70.chunk.js.map",
+    "static/js/3.cfcc6b12.chunk.js": "/extinct-io/static/js/3.cfcc6b12.chunk.js",
+    "static/js/3.cfcc6b12.chunk.js.map": "/extinct-io/static/js/3.cfcc6b12.chunk.js.map",
+    "index.html": "/extinct-io/index.html",
+    "static/css/main.54e13ee9.chunk.css.map": "/extinct-io/static/css/main.54e13ee9.chunk.css.map",
+    "static/js/2.f75fcc70.chunk.js.LICENSE.txt": "/extinct-io/static/js/2.f75fcc70.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/extinct-io/static/media/koala60.5b7c18d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600cf281.js",
+    "static/js/2.f75fcc70.chunk.js",
+    "static/css/main.54e13ee9.chunk.css",
+    "static/js/main.09f30334.chunk.js"
+  ]
+}
